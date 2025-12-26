@@ -1,31 +1,31 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/90959e06180fecc5.js"
+    "static/chunks/091bc1e424dc91c7.js"
   ],
   "/_error": [
-    "static/chunks/7f3be8d157c88a30.js"
+    "static/chunks/6fa73e260c2ce84c.js"
   ],
   "/about": [
-    "static/chunks/51f7a5e73fc010ad.js"
+    "static/chunks/6f11f527629f234d.js"
   ],
   "/articles": [
-    "static/chunks/033956243e0063d3.js"
+    "static/chunks/f358666748fc4dc9.js"
   ],
   "/contact": [
-    "static/chunks/af8d3fd63cc59271.js"
+    "static/chunks/d30db3a93d376db9.js"
   ],
   "/products/[category]": [
-    "static/chunks/0cf862306d40567c.js"
+    "static/chunks/85b8591c7e6edf2b.js"
   ],
   "/products/[category]/[brand]": [
-    "static/chunks/d410686bd6b248fa.js"
+    "static/chunks/cf721fda68bc5a02.js"
   ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/Store-project-with-Next//_next/:path+",
-        "destination": "/Store-project-with-Next/_next/:path+"
+        "source": "/.//_next/:path+",
+        "destination": "/_next/:path+"
       }
     ],
     "fallback": []
