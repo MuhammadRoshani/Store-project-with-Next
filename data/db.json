@@ -1,0 +1,464 @@
+{
+   "laptops": [
+      {
+         "id": 1,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop01.jpg",
+         "text": "Lenovo laptop 15.6 inch model ThinkBook CPU Core i3 1115G4 RAM 8GB Capacity 256GB SSD Graphic intel",
+         "price": 39800000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 2,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop02.jpg",
+         "text": "Lenovo laptop 15.6 inch model Ideapad Gaming 3 CPU Core i5-11300H RAM 16GB Capacity 1TB SSD Graphic intel",
+         "price": 68000000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 3,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop03.jpg",
+         "text": "Lenovo laptop 15.6 inch model Ideapad 3 CPU Core i3 1165G7 RAM 12GB Capacity 1TB SSD Graphic intel",
+         "price": 48800000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 4,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop04.jpg",
+         "text": "Lenovo laptop 15.6 inch model Ideapad 3 CPU N4020 RAM 4GB Capacity 1TB SSD Graphic intel",
+         "price": 34800000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 5,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop05.jpg",
+         "text": "asus laptop 15.6 inch model X515EP CPU Core i5 1135G7 RAM 8GB Capacity 512 SSD Graphic intel 2GB",
+         "price": 45000000,
+         "brand": "asus"
+      },
+      {
+         "id": 6,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop06.jpg",
+         "text": "asus laptop 15.6 inch model TUF FX506HC CPU Core i5 11400H RAM 16GB Capacity 1TB SSD Graphic intel",
+         "price": 53000000,
+         "brand": "asus"
+      },
+      {
+         "id": 7,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop07.jpg",
+         "text": "asus laptop 15.6 inch model TUF FX506HC CPU Core i5 11400H RAM 16GB Capacity 512 SSD Graphic intel",
+         "price": 50800000,
+         "brand": "asus"
+      },
+      {
+         "id": 8,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop08.jpg",
+         "text": "asus laptop 15.6 inch model TUF Gaming FX517ZR CPU Core i7 12650H RAM 16GB Capacity 1TB SSD Graphic",
+         "price": 79000000,
+         "brand": "asus"
+      },
+      {
+         "id": 9,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop09.jpg",
+         "text": "Lenovo laptop 15.6 inch Ideapad Gaming 3 CPU Core i7 12650H RAM 32GB Capacity 1TB SSD Graphic intel",
+         "price": 69000000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 10,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop10.jpg",
+         "text": "Lenovo laptop 15.6 inch V15 CPU Core i5 1135G7 RAM 8GB Capacity 256GB SSD Graphic intel",
+         "price": 38000000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 11,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop11.jpg",
+         "text": "HP laptop 15.6 inch Victus 15-FA1093DX CPU Core i5 13420H RAM 16GB Capacity 512GB SSD Graphic",
+         "price": 50100000,
+         "brand": "hp"
+      },
+      {
+         "id": 12,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop12.jpg",
+         "text": "asus laptop 16.1 inch TUF FX506HF CPU Core i5 11400H RAM 16GB Capacity 1TB SSD Graphic intel",
+         "price": 38800000,
+         "brand": "asus"
+      },
+      {
+         "id": 13,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop13.jpg",
+         "text": "asus laptop 15.6 inch ROG Strix G513RC CPU Ryzen 7 6800H RAM 16GB Capacity 1TB SSD Graphic intel",
+         "price": 73000000,
+         "brand": "asus"
+      },
+      {
+         "id": 14,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop14.jpg",
+         "text": "Lenovo laptop 15.6 inch Ideapad 3 CPU Core i5 1235U RAM 8GB Capacity 512GB SSD Graphic intel",
+         "price": 358000000,
+         "brand": "lenovo"
+      },
+      {
+         "id": 15,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop15.jpg",
+         "text": "Microsoft laptop 15.6 inch Surface Laptop 4 CPU Core i7 1185G7 RAM 16GB Capacity 256GB SSD Graphic",
+         "price": 676000000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 16,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop16.jpg",
+         "text": "Microsoft laptop 14.1 inch Surface Laptop Studio CPU Core i7 11370H RAM 16GB Capacity 256GB SSD",
+         "price": 99500000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 17,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop17.jpg",
+         "text": "HP laptop 15.6 inch Victus 15-FA1093DX CPU Core Core i5 13420H RAM 16GB Capacity 512GB SSD",
+         "price": 67100000,
+         "brand": "hp"
+      },
+      {
+         "id": 18,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop18.jpg",
+         "text": "HP laptop 15.6 inch VICTUS 15 FA1021 CPU Core i7 13720H RAM 16GB Capacity 512GB SSD Graphic",
+         "price": 69000000,
+         "brand": "hp"
+      },
+      {
+         "id": 19,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop19.jpg",
+         "text": "HP laptop 14.1 inch Spectre x360 14 EF2013dx CPU Core i7 13720H RAM 16GB Capacity 2TB SSD Graphic intel",
+         "price": 88000000,
+         "brand": "hp"
+      },
+      {
+         "id": 20,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop20.jpg",
+         "text": "MSI laptop 16.1 inch Summit E16 Flip A13VFT CPU Core i7 1360P RAM 32GB Capacity 2TB SSD Graphic intel",
+         "price": 120000000,
+         "brand": "msi"
+      },
+      {
+         "id": 21,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop21.jpg",
+         "text": "MSI laptop 15.6 inch GF63 Thin 12UCX CPU Core i7 12650H RAM 16GB Capacity 1TB SSD Graphic intel",
+         "price": 56000000,
+         "brand": "msi"
+      },
+      {
+         "id": 22,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop22.jpg",
+         "text": "Dell laptop 15.6 inch Cyborg 15 A12VE CPU Core i7 12650H RAM 16GB Capacity 1TB SSD Graphic intel",
+         "price": 78000000,
+         "brand": "dell"
+      },
+      {
+         "id": 23,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop23.jpg",
+         "text": "Dell laptop 15.6 inch Vostro 3520-X CPU Core i7 1255U RAM 32GB Capacity 2TB SSD Graphic intel",
+         "price": 83000000,
+         "brand": "dell"
+      },
+      {
+         "id": 24,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop24.jpg",
+         "text": "Dell laptop 15.6 inch Vostro 3510 CPU Core i7 1165G7 RAM 16GB Capacity 512GB SSD Graphic intel",
+         "price": 59800000,
+         "brand": "dell"
+      },
+      {
+         "id": 25,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop25.jpg",
+         "text": "MacBook Air laptop 13.2 inch MGN63 2020 CPU m1 RAM 8GB Capacity 256GB SSD",
+         "price": 79000000,
+         "brand": "apple"
+      },
+      {
+         "id": 26,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop26.jpg",
+         "text": "MacBook Air laptop 13.2 inch MGN69 2020 CPU m1 RAM 8GB Capacity 512GB SSD",
+         "price": 69800000,
+         "brand": "apple"
+      },
+      {
+         "id": 27,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop27.jpg",
+         "text": "MacBook pro laptop 16.1 inch MNWC3 2020 CPU m2 pro RAM 16GB Capacity 512GB SSD",
+         "price": 177000000,
+         "brand": "apple"
+      },
+      {
+         "id": 28,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/laptop28.jpg",
+         "text": "MacBook Air laptop 15.3 inch Silver MQKT3 CPU m2 RAM 8GB Capacity 512 SSD",
+         "price": 87800000,
+         "brand": "apple"
+      }
+   ],
+
+   "mobiles": [
+      {
+         "id": 1,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile01.jpg",
+         "text": "apple mobile phone iphone 13 not active capacity 128GB dual-sim",
+         "price": 62000000,
+         "brand": "apple"
+      },
+      {
+         "id": 2,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile02.jpg",
+         "text": "apple mobile phone iphone 13pro max not active capacity 128GB single-sim",
+         "price": 105000000,
+         "brand": "apple"
+      },
+      {
+         "id": 3,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile03.jpg",
+         "text": "apple mobile phone iphone 13pro max not active capacity 128GB single-sim",
+         "price": 92500000,
+         "brand": "apple"
+      },
+      {
+         "id": 4,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile04.jpg",
+         "text": "xiaomi mobile phone poco f5 capacity 256GB dual-sim",
+         "price": 28300000,
+         "brand": "xiaomi"
+      },
+      {
+         "id": 5,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile05.jpg",
+         "text": "samsung mobile phone galaxy s21FE capacity 256GB dual-sim",
+         "price": 27100000,
+         "brand": "samsung"
+      },
+      {
+         "id": 6,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile06.jpg",
+         "text": "samsung mobile phone galaxy A14 capacity 64GB dual-sim",
+         "price": 16000000,
+         "brand": "samsung"
+      },
+      {
+         "id": 7,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile07.jpg",
+         "text": "samsung mobile phone galaxy A24 capacity 128GB dual-sim",
+         "price": 20900000,
+         "brand": "samsung"
+      },
+      {
+         "id": 8,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile08.jpg",
+         "text": "samsung mobile phone galaxy s23FE capacity 256GB dual-sim",
+         "price": 39700000,
+         "brand": "samsung"
+      },
+      {
+         "id": 9,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile09.jpg",
+         "text": "samsung mobile phone galaxy s24Ultra capacity 256GB dual-sim",
+         "price": 99100000,
+         "brand": "samsung"
+      },
+      {
+         "id": 10,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile10.jpg",
+         "text": "samsung mobile phone galaxy A34 capacity 256GB dual-sim",
+         "price": 22900000,
+         "brand": "samsung"
+      },
+      {
+         "id": 11,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile11.jpg",
+         "text": "xiaomi mobile phone poco X5 5G capacity 256GB dual-sim",
+         "price": 19900000,
+         "brand": "xiaomi"
+      },
+      {
+         "id": 12,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/mobile12.jpg",
+         "text": "xiaomi mobile phone redmi note 11 pro plus 5G capacity 256GB dual-sim",
+         "price": 26400000,
+         "brand": "xiaomi"
+      }
+   ],
+
+   "cameras": [
+      {
+         "id": 1,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera01.jpg",
+         "text": "digital camera Canon model EOS 4000D 18-55 mm",
+         "price": 62000000,
+         "brand": "canon"
+      },
+      {
+         "id": 2,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera02.jpg",
+         "text": "digital camera Canon model EOS 80D 135-18 mm",
+         "price": 98000000,
+         "brand": "canon"
+      },
+      {
+         "id": 3,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera03.jpg",
+         "text": "digital camera Canon model power shout xs 60",
+         "price": 62500000,
+         "brand": "canon"
+      },
+      {
+         "id": 4,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera04.jpg",
+         "text": "digital camera Canon model EOS 77D 18-135 mm",
+         "price": 18300000,
+         "brand": "canon"
+      },
+      {
+         "id": 5,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera05.jpg",
+         "text": "digital camera Nikon model D3400 VR 55-18 mm",
+         "price": 66500000,
+         "brand": "nikon"
+      },
+      {
+         "id": 6,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera06.jpg",
+         "text": "digital camera Nikon D7500 With 18-140 mm",
+         "price": 7800000,
+         "brand": "nikon"
+      },
+      {
+         "id": 7,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera07.jpg",
+         "text": "digital camera Nikon D3500 VR With 55-18 mm",
+         "price": 52900000,
+         "brand": "nikon"
+      },
+      {
+         "id": 8,
+         "image": "https://dl.next1code.ir/images/nextjs/chapter04/camera08.jpg",
+         "text": "digital camera Nikon D3200 VR With 18-105 mm",
+         "price": 44700000,
+         "brand": "nikon"
+      }
+   ],
+   
+   "tablets": [
+    {
+         "id": 1,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/b4f4a25f30d7c508230f0adc41dadec1d175986b_1754235785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "microsoft tablet 13 inch model Surface Pro 10-Core Ultra 7 165U RAM 16GB capacity 512GB",
+         "price": 169000000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 2,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/919d7fb35e78233400fef0481dae02cb2ad60ae4_1754240119.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "microsoft tablet 13 inch model Surface Pro 11-Snapdragon X Elite OLED RAM 16GB capacity 512GB",
+         "price": 140000000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 3,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/65f76ca775613ffe73f166cf7290b0cce463eab2_1754252963.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+         "text": "samsung tablet 13 inch model Galaxy Tab A9 Plus 5G RAM 16GB capacity 128GB",
+         "price": 31000000,
+         "brand": "samsung"
+      },
+      {
+         "id": 4,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/cea678d9ec3bb2b0cdcff7b7cd08148a18718adc_1754998867.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+         "text": "xiaomi tablet 11 inch model Redmi Pad Pro RAM 8GB capacity 256GB Dual-sim card",
+         "price": 34000000,
+         "brand": "xiaomi"
+      },
+      {
+         "id": 5,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/c4f6907c61108466ffde07db826d85d9a5b43d16_1754240834.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+         "text": "apple tablet 11 inch model ipad air 11 RAM 8GB capacity 128GB",
+         "price": 72800000,
+         "brand": "apple"
+      },
+      {
+         "id": 6,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/f2df6a35975c92a4cb0943d55086fe863394edb9_1712494987.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+         "text": "samsung tablet 13 inch model Galaxy Tab A9 Wi-Fi RAM 4GB capacity 64GB",
+         "price": 13400000,
+         "brand": "samsung"
+      },
+      {
+         "id": 7,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/d3bd3d4f08b42ad85a8a1d5ded26b5934c48ef31_1754237064.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+         "text": "xiaomi tablet 11 inch model Pad 7 Pro Wi-Fi RAM 12GB capacity 512GB",
+         "price": 59000000,
+         "brand": "xiaomi"
+      },
+      {
+         "id":8,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/d2bfb39e214a2407bd9185419ddc875b50032c86_1754254901.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
+         "text": "apple tablet 13 inch model ipad pro wi-fi 2024 RAM 8GB capacity 512GB",
+         "price": 182000000,
+         "brand": "apple"
+      }
+   ],
+
+   "consoles": [
+    {
+         "id": 1,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/80f9dca34c8f538f1b93eda1b3e6820a7047ba45_1754252368.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model playstation ps5 slim disk capacity 825GB",
+         "price": 63800000,
+         "brand": "sony"
+      },
+      {
+         "id": 2,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/705b12eeecc09290379f4acc3564fed3fd1c9ce9_1754236725.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model playstation ps5 slim disk with extra capacity 1TB",
+         "price": 72000000,
+         "brand": "sony"
+      },
+      {
+         "id": 3,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/0cc0625f3c5590d7c1d1bbb88a0d21c74df23aae_1754243849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model xbox series x disk capacity 1TB",
+         "price": 83000000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 4,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/a4845142c0d083e7f1f5340cdf5f05890bff16ba_1754243849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model xbox series s digital capacity 512GB",
+         "price": 44000000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 5,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/65f98195e06e98373128da618a5cbfba1bee693c_1754246623.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model nintendo switch OLED capacity 256GB",
+         "price": 33800000,
+         "brand": "nintendo"
+      },
+      {
+         "id": 6,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/e65b67f71f06015af329ac777602b55a07f9be0e_1754236524.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model playstation ps5 pro digital capacity 2TB",
+         "price": 93000000,
+         "brand": "sony"
+      },
+      {
+         "id": 7,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/b3c7bb2be0b178e4f28797afdcd81ca77ca56ce6_1754244116.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model xbox series s digital with controller capacity 512 gb",
+         "price": 63800000,
+         "brand": "microsoft"
+      },
+      {
+         "id": 8,
+         "image": "https://dkstatics-public.digikala.com/digikala-products/4edaedb845a35875960f8e3962537ea7fe36d4ca_1754836064.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+         "text": "game console model playstation ps4 slim disk capacity 1TB",
+         "price": 32100000,
+         "brand": "sony"
+      }
+   ]
+}
